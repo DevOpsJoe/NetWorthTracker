@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Net Worth Tracker",
+    "slug": "net-worth-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1B5E20"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.yourname.networthtracker"
+    },
+    "android": {
+      "package": "com.yourname.networthtracker",
+      "adaptiveIcon": {
+        "backgroundColor": "#1B5E20"
+      }
+    }
+  }
+}
